@@ -1,0 +1,20 @@
+[INFO ] 2020-05-18 22:22:33.701 [main] TestBase:30 - 
+********** starting test: *********bookingReviewTest***********
+
+[INFO ] 2020-05-18 22:22:36.674 [main] TestBase:34 - Chrome Browser is opened
+[INFO ] 2020-05-18 22:22:40.510 [main] TestBase:44 - Navigated to url: https://www.makemytrip.com/
+[INFO ] 2020-05-18 22:22:40.767 [main] TestBase:52 - Selected round trip radio button
+[INFO ] 2020-05-18 22:22:41.032 [main] TestBase:57 - Selected one way radio button
+[INFO ] 2020-05-18 22:22:44.461 [main] TestBase:66 - Source city is entered: Kolkata
+[INFO ] 2020-05-18 22:22:47.039 [main] TestBase:75 - Destination city is entered: Bengaluru
+[INFO ] 2020-05-18 22:22:49.227 [main] TestBase:94 - journey date: 15/September
+[INFO ] 2020-05-18 22:22:51.485 [main] TestBase:99 - Clicked on search button
+[INFO ] 2020-05-18 22:22:53.239 [main] TestBase:48 - Clicked on filter
+[INFO ] 2020-05-18 22:22:53.428 [main] TestBase:53 - Clicked on view fare
+[INFO ] 2020-05-18 22:22:54.241 [main] TestBase:58 - Clicked on Book now
+[INFO ] 2020-05-18 22:22:56.385 [main] TestBase:30 - Switched to review page
+[INFO ] 2020-05-18 22:22:58.385 [main] TestBase:35 - Review title is captured
+[INFO ] 2020-05-18 22:23:00.422 [main] TestBase:54 - Chrome browser is closed
+[INFO ] 2020-05-18 22:23:00.423 [main] TestBase:55 - 
+********** Test is completed: *********bookingReviewTest***********
+
